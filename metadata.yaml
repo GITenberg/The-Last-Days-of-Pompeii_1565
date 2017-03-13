@@ -1,5 +1,8 @@
 _repo: The-Last-Days-of-Pompeii_1565
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lytton, Edward Bulwer Lytton, Baron
@@ -25,6 +28,8 @@ description: "The Last Days of Pompeii is a novel written by the baron Edward Bu
   \ The Coming Race.\nA popular sculpture by American sculptor Randolph Rogers, Nydia,\
   \ the Blind Flower Girl of Pompeii (1856), was based on a character from the book.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1565#The-Last-Days-of-Pompeii
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-02-19'
 gutenberg_type: Text
